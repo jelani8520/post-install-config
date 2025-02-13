@@ -22,19 +22,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Set Up Admin and User Accounts
 
 - Set Up SLA (Service Level Agreements)
-- 
+
+  
 - Set Up Ticket Assignment and Routing Rules
 
 <h2>Configuration Steps</h2>
 
 </p>
-Service Level Agreements (SLAs) are essential for defining the expectations and responsibilities between service providers and clients, ensuring clarity in service delivery. They are widely used in IT services, cloud computing, telecommunications, and outsourcing to establish measurable performance standards such as uptime, response times, and issue resolution. SLAs help maintain accountability by setting clear benchmarks and providing mechanisms for monitoring service quality.
-
+in this image it displays the managing of service level agreements,  (SLAs) are essential for defining the expectations and responsibilities between service providers and clients, ensuring clarity in service delivery. They are widely used in IT services, cloud computing, telecommunications, and outsourcing to establish measurable performance standards such as uptime, response times, and issue resolution. SLAs help maintain accountability by setting clear benchmarks and providing mechanisms for monitoring service quality.
 
 
 <p><img width="1680" alt="Screen Shot 2025-02-07 at 9 24 07 PM" src="https://github.com/user-attachments/assets/98ebc439-6a6b-4b45-a653-d0cc6032787d" />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
 </p>
 
 
