@@ -28,18 +28,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p><img width="1680" alt="Screen Shot 2025-02-07 at 9 24 07 PM" src="https://github.com/user-attachments/assets/98ebc439-6a6b-4b45-a653-d0cc6032787d" />
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
-<br /><img width="1680" alt="Screen Shot 2025-02-07 at 9 24 07 PM" src="https://github.com/user-attachments/assets/80559bda-c53a-42ad-9f3f-5a977ed20306" />
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -48,7 +44,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="1680" alt="Screen Shot 2025-02-07 at 9 44 44 PM" src="https://github.com/user-attachments/assets/4a43479a-1350-4e59-9844-123303d5ef1b" />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
