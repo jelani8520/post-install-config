@@ -39,8 +39,7 @@ in this image it displays the managing of service level agreements,  (SLAs) are 
 
 <p>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>i as the  end-user submits a ticket by logging into osTicket or using a web form or email. Then provide details like the issue type, priority, and a description, then submit it. The system assigns a unique ticket number for tracking then as the  i Agents review the ticket, update its status, and communicate with the user. depending on the the emergency i assign it to the right department, add internal notes, and set priorities. As the issue is worked on, updates are logged, and once resolved, the ticket is closed. as  Admin i  can track progress, ensure timely responses, and generate reports for efficiency.
 </p>
 <br />
 <img width="1680" alt="Screen Shot 2025-02-07 at 9 44 44 PM" src="https://github.com/user-attachments/assets/4a43479a-1350-4e59-9844-123303d5ef1b" />
