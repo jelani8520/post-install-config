@@ -50,8 +50,8 @@ in this image it displays the managing of service level agreements,  (SLAs) are 
 
 <img width="1680" alt="Screen Shot 2025-02-07 at 11 34 16 PM" src="https://github.com/user-attachments/assets/1ba70702-8f4b-474d-b019-76a561a72767" />
 
-  Opening a new ticket in a ticketing system is a crucial process for reporting issues, requesting support, or tracking service requests. To create a ticket, users typically log into the system and navigate to the “New Ticket” or “Create Request” section. They are required to provide essential details such as the issue type, priority level, a clear description of the problem, and any relevant attachments or screenshots. Some ticketing systems also allow users to categorize the request and assign it to the appropriate department. ive wokred on making tickets and asign them to different departments
-</p>
+ When responding to an SLA ticket,i as a agent acknowledged the issue within the agreed response time. Then provide updates, request additional details if needed, and work towards a resolution while ensuring compliance with the SLA terms. Regular communication keeps the user informed about progress.
+Once the issue is resolved, the agent marks the ticket as resolved or closed,</p>
 <img width="1680" alt="Screen Shot 2025-02-08 at 12 35 52 AM" src="https://github.com/user-attachments/assets/6a5374dc-42eb-4f4d-8f1d-757a2afbc38b" />
 
 
