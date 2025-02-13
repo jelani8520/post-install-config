@@ -20,7 +20,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 - Set Up Admin and User Accounts
+
 - Set Up SLA (Service Level Agreements)
+- 
 - Set Up Ticket Assignment and Routing Rules
 
 <h2>Configuration Steps</h2>
@@ -50,8 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <img width="1680" alt="Screen Shot 2025-02-07 at 11 34 16 PM" src="https://github.com/user-attachments/assets/1ba70702-8f4b-474d-b019-76a561a72767" />
 
-  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Opening a new ticket in a ticketing system is a crucial process for reporting issues, requesting support, or tracking service requests. To create a ticket, users typically log into the system and navigate to the “New Ticket” or “Create Request” section. They are required to provide essential details such as the issue type, priority level, a clear description of the problem, and any relevant attachments or screenshots. Some ticketing systems also allow users to categorize the request and assign it to the appropriate department. ive wokred on making tickets and asign them to different departments
 </p>
 <img width="1680" alt="Screen Shot 2025-02-08 at 12 35 52 AM" src="https://github.com/user-attachments/assets/6a5374dc-42eb-4f4d-8f1d-757a2afbc38b" />
 
