@@ -64,8 +64,8 @@ in this image it displays the managing of service level agreements,  (SLAs) are 
 11
 <img width="1680" alt="Screen Shot 2025-02-17 at 10 33 57 AM" src="https://github.com/user-attachments/assets/47b940b4-3584-49b7-98fe-c38714365769" />
 
-11
-<img width="1680" alt="Screen Shot 2025-02-17 at 10 36 12 AM" src="https://github.com/user-attachments/assets/bb4ab07a-b717-42fe-8191-637053eaa4aa" />
+by setting up a new (SLA) It helps set clear expectations for both customers and support teams, ensuring efficient issue handling, prioritization, and accountability. A new SLA plan can be customized based on factors like ticket urgency, customer tier, or business hours, helping improve customer satisfaction and service efficiency
+.<img width="1680" alt="Screen Shot 2025-02-17 at 10 36 12 AM" src="https://github.com/user-attachments/assets/bb4ab07a-b717-42fe-8191-637053eaa4aa" />
 Adding a new help topic in a system or software typically expands the documentation by providing users with additional guidance, troubleshooting steps, or explanations on a specific subject. It helps improve user support  in the next lab ill be working on the tickets lifecycle <img width="1680" alt="Screen Shot 2025-02-17 at 10 36 41 AM" src="https://github.com/user-attachments/assets/11ec46db-657a-4d5b-b720-8cc35a68f906" />
 
 
