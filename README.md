@@ -33,35 +33,21 @@ in this image it displays the managing of service level agreements,  (SLAs) are 
 
 <img width="1680" alt="Screen Shot 2025-02-17 at 10 16 08 AM" src="https://github.com/user-attachments/assets/b1415c82-9402-4f08-a6f3-d8c1a8e5ccca" />
 
-
+from the osticketing system i loggin in as admin to configrue and set up users and passwords to create a working system with endusers and agents to be able to view and obsevre in different departments any issuse
 <img width="1680" alt="Screen Shot 2025-02-17 at 10 19 43 AM" src="https://github.com/user-attachments/assets/d4d85333-7a1c-42ad-a7d6-0b836e6c9b0d" />
 
-</p>
-
-
-
-<p>
-</p>
-<p>i as the  end-user submits a ticket by logging into osTicket or using a web form or email. Then provide details like the issue type, priority, and a description, then submit it. The system assigns a unique ticket number for tracking then as the  i Agents review the ticket, update its status, and communicate with the user. depending on the the emergency i assign it to the right department, add internal notes, and set priorities. As the issue is worked on, updates are logged, and once resolved, the ticket is closed. as  Admin i  can track progress, ensure timely responses, and generate reports for efficiency.
-</p>
-<br
+roles  helps define what each user can view, modify, or manage, ensuring security, efficiency, and proper workflow control. Roles such as Admin, Manager, Agent, and End-User allow for restricted access based on responsibilities. For example, admins can configure settings and manage users, agents handle tickets, and customers can only create and track their requests.
 <img width="1680" alt="Screen Shot 2025-02-17 at 10 21 53 AM" src="https://github.com/user-attachments/assets/066ba82e-349c-4c0f-ba63-6f23b2649330" />
-
-<p>
-</p>
-<p>
+Assigning departments in a ticketing system helps categorize and route tickets to the appropriate teams based on the nature of the issue, such as Technical Support, Billing, Sales, or IT. This ensures that customer inquiries are handled by the right experts, leading to faster response times, better issue resolution, and improved efficiency. 
 
 <img width="1680" alt="Screen Shot 2025-02-17 at 10 23 14 AM" src="https://github.com/user-attachments/assets/da69a67f-d445-43a4-87fc-f0762ad46402" />
-11
-
+i then asigned teams for the agents  to helps organize and streamline support operations by grouping agents based on their expertise, department, or role. This ensures that tickets are directed to the right team, improving response times, efficiency, and issue resolution. Teams can be assigned based on factors like technical support, billing, or priority levels, ensuring a structured workflow and better collaboration.
 <img width="1680" alt="Screen Shot 2025-02-17 at 10 28 40 AM" src="https://github.com/user-attachments/assets/a77fb066-2ee2-4a42-8e36-5450fa038052" />
-11
 
+by adding agents it allows support staff to manage, respond to, and resolve customer inquiries or issues efficiently. Agents are assigned roles and permissions to handle tickets based on priority, department, or expertise, ensuring faster response times and better customer service. They can track, escalate, and collaborate on tickets, improving team productivity and service quality. 
 <img width="1680" alt="Screen Shot 2025-02-17 at 10 33 02 AM" src="https://github.com/user-attachments/assets/d0b98081-093e-4d23-8236-06a403cbb6fe" />
 
-
-
-11
+i added a user named karen to send all imcoming issues that i might create 
 <img width="1680" alt="Screen Shot 2025-02-17 at 10 33 57 AM" src="https://github.com/user-attachments/assets/47b940b4-3584-49b7-98fe-c38714365769" />
 
 by setting up a new (SLA) It helps set clear expectations for both customers and support teams, ensuring efficient issue handling, prioritization, and accountability. A new SLA plan can be customized based on factors like ticket urgency, customer tier, or business hours, helping improve customer satisfaction and service efficiency
